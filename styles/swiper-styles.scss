@@ -1,0 +1,7 @@
+.swiper-slide {
+    cursor: pointer;
+
+    &-thumb-active {
+        border: 3px solid darkcyan;
+    }
+}
