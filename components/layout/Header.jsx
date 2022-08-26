@@ -24,7 +24,7 @@ const Header = () => {
             </div>
         
             <Link href={'/'}>
-                <Image src={'/MegaKart-logos_black_cropped.png'} style={{cursor: "pointer"}} alt={"MegaKart Logo"} width={"35%"} height={"35%"} />
+                <Image src={'/header-logo.png'} style={{cursor: "pointer"}} alt={"MegaKart Logo"} width={"35%"} height={"35%"} />
             </Link>
         
             <button className={"btn me-4 position-relative"}>

@@ -4,7 +4,7 @@ import productCategories from "../products/productCategories";
 const Footer = ({ className }) => {
     return <footer className={`text-center bg-light pb-4 ${className}`}>
         <div className={"pt-3"}>
-            <Image src={'/MegaKart-logos_black.png'} width={"100%"} height={"100%"} />
+            <Image src={'/footer-logo.png'} width={"100%"} height={"100%"} />
         </div>
     
         <h3 className={"mt-2"}>Products</h3>
